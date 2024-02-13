@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning Python, AI and LLM
 - 💞️ I’m looking to collaborate on AI projects and LLMs.
 - 📫 How to reach me rishikant@msn.com
-- 😄 Pronouns: He/Him
 
 <!---
 beo-wu1f/beo-wu1f is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
