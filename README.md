@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rishi Kant [@beo-wu1f]
 - 👀 I’m interested in Data Engineering, AI tools, Machine Learning and LLMs.
-- 🌱 I’m currently learning Python, AI and LLM
+- 🌱 I’m currently learning Python, Data Engineering, AI and LLM
 - 💞️ I’m looking to collaborate on AI projects and LLMs.
 - 📫 How to reach me rishikant@msn.com
 
