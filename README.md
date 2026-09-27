@@ -1,10 +1,9 @@
-- 👋 Hi, I’m Rishi Kant [@beo-wu1f]
-- 👀 I’m interested in Data Engineering, AI tools, Machine Learning and LLMs.
-- 🌱 I’m currently learning Python, Data Engineering, AI and LLM
-- 💞️ I’m looking to collaborate on AI projects and LLMs.
-- 📫 How to reach me rishikant@msn.com
+⚛️ **Physics graduate transitioning into Data Engineering & Analytics.**
 
-<!---
-beo-wu1f/beo-wu1f is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🔧🔧 I build practical, hands-on projects focused on **data engineering, analytics, and building reliable systems** — with an emphasis on understanding how things work from the ground up.
+
+🚀 My approach is simple: **learn by building, experiment with real systems, break things, debug them, and understand why they work.**
+
+🧪 With a background in physics, I'm especially interested in **problem-solving, systems thinking, data, and finding structure hidden inside complex problems.**
+
+🌱 Currently building projects, expanding my data engineering toolkit, and turning ideas into working systems.
